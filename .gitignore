@@ -1,0 +1,11 @@
+# 删除test文件
+test*
+
+# 生成可执行文件目录
+exe/
+
+# 所有备份文件
+*.bak
+
+# .vscode文件夹
+.vscode
